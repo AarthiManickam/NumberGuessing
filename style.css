@@ -1,0 +1,9 @@
+.jumbotron {
+    
+    background-size:cover
+    color: rgb(10, 0, 0);
+    padding: 50em inherit;
+}
+body {
+    padding: 50px;
+}
